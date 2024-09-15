@@ -26,8 +26,8 @@ Iterative Training
 
 
 ## Program:
-```
-/*
+```python
+
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: R.Suraj pandian
 RegisterNumber: 212223080040
@@ -92,7 +92,7 @@ Predictions:
  [ 2.35760015 35.50646978]
  [ 2.73967825 35.37568192]
  [ 2.10914107 35.63894336]]
-*/
+
 ```
 
 ## Output:
